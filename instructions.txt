@@ -1,0 +1,16 @@
+Add Data:
+
+Add Category
+Add Product
+Add Customer
+Add Order
+Add Payment
+
+Display Stats:
+
+Sales Metrics
+Order Metrics
+Payment Metrics
+Product Metrics
+Geographical Metrics
+
